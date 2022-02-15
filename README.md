@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @eminna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Emina Kosović
+- 💻 I’m third year Software engineering student
+- ✨ Learning to become full stack web developer.
+
+You can visit my portfolio page:
+https://eminna.github.io/
 
 <!---
 eminna/eminna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
