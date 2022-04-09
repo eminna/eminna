@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emina Kosović
 - 💻 I’m third year Software engineering student
-- ✨ Learning to become full stack web developer.
+- ✨ Learning to become backend developer.
 
 You can visit my portfolio page:
 https://eminna.github.io/
