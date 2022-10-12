@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emina Kosović
-- 💻 I’m third year Software engineering student
+- 💻 I’m fourth year Software engineering student
 - ✨ Learning to become backend developer.
 
 You can visit my portfolio page:
